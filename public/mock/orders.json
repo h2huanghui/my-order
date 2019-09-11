@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "shop": "民国红公馆(新街口德基店)",
+      "pic": "https://img.meituan.net/msmerchant/0ec11c092dcfc97f37c8df34b8b4f993117110.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0",
+      "product": "淮扬菜",
+      "price": 235,
+      "ifCommented": true
+    },
+    {
+      "id": 2,
+      "shop": "德基广场",
+      "pic": "http://p0.meituan.net/joymerchant/a4d80e24d37789c1e4af4d7d51c0c3b1--449706249.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0",
+      "product": "综合商场",
+      "price": 1613,
+      "ifCommented": false
+    },
+    {
+      "id": 3,
+      "shop": "中央商场(新街口店)",
+      "pic": "http://qcloud.dpfile.com/pc/yuHyBlN2Ln5vpotctO4KCE8OQK-q6Kz-JymT4PQoJLN-FuZ3w5EpWFPvAI_GsRmdbKcq9vnEaGy3xLEf-_v_oA.jpg",
+      "product": "综合商场",
+      "price": 596,
+      "ifCommented": false
+    },
+    {
+      "id": 4,
+      "shop": "新百",
+      "pic": "http://qcloud.dpfile.com/pc/rOVtHCE_f3r2TmtPe-iOp7Wn4qy1OtPZ2tbSbpvFST3nxsoEiRLa_d4TXxbHp-6gbKcq9vnEaGy3xLEf-_v_oA.jpg",
+      "product": "综合商场",
+      "price": 544,
+      "ifCommented": false
+    }
+]
